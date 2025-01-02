@@ -5,6 +5,7 @@ Nossa pagina onde postamos todas as atualizações do servidor!
 ***No Twist RP, acreditamos que a experiência de roleplay é moldada não apenas pelos jogadores, mas também pela dedicação e criatividade de nossa equipe de desenvolvimento. Nosso objetivo é proporcionar uma jogabilidade imersiva, dinâmica e cheia de possibilidades, garantindo que cada momento em nosso servidor seja único e memorável.***
 
 **O que Fazemos**
+
 Nossa equipe de desenvolvedores trabalha incansavelmente para:
 
 Criar e manter sistemas exclusivos que enriquecem a jogabilidade.

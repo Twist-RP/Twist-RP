@@ -21,6 +21,6 @@ _Nossa Filosofia_
 
 **Qualidade: Garantimos que tudo no servidor seja bem testado antes de ser implementado.**
 
-###Quer Contribuir?###
+### Quer Contribuir?
 
 Somos uma comunidade aberta e valorizamos o talento de todos. Se você é um **desenvolvedor ou designer** e gostaria de fazer parte da equipe, abra um ticket! Adoraríamos conhecer seu trabalho e discutir como você pode contribuir para o Twist.

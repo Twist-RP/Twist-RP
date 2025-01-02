@@ -13,14 +13,14 @@ Introduzir novos conteúdos, como empregos, veículos, missões e eventos.
 Customizar mapas, construções e ambientes para uma experiência visual única.
 Escutar a comunidade para ajustar e melhorar constantemente o servidor.
 
-Nossa Filosofia
+_Nossa Filosofia_
 
-Inovação: Estamos sempre em busca de novas ideias para surpreender nossos jogadores.
+**Inovação: Estamos sempre em busca de novas ideias para surpreender nossos jogadores.**
 
-Comunidade: Suas sugestões e feedback são essenciais para nosso progresso.
+**Comunidade: Suas sugestões e feedback são essenciais para nosso progresso.**
 
-Qualidade: Garantimos que tudo no servidor seja bem testado antes de ser implementado.
+**Qualidade: Garantimos que tudo no servidor seja bem testado antes de ser implementado.**
 
-Quer Contribuir?
+###Quer Contribuir?###
 
 Somos uma comunidade aberta e valorizamos o talento de todos. Se você é um **desenvolvedor ou designer** e gostaria de fazer parte da equipe, abra um ticket! Adoraríamos conhecer seu trabalho e discutir como você pode contribuir para o Twist.
